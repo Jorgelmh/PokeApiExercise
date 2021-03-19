@@ -1,0 +1,56 @@
+.bgBody{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../assets/background.jpg) ;
+    background-size: cover;
+}
+
+.site-pokemon{
+    padding: 30px;
+    margin-top: 30px;
+    background-color: #ffffffe7;
+    border-radius: 10px;
+    box-shadow: -3px 1px 23px -7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -3px 1px 23px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 1px 23px -7px rgba(0,0,0,0.75);
+}
+
+.site-pokemon img{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.site-pokemon h1{
+    text-transform: capitalize;
+}
+
+.site-pokemon h2{
+    font-size: 1.6rem;
+    margin-bottom: 20px;
+}
+
+.site-pokemon h3{
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.site-pokemon .pokemon-data{
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.site-abilities{
+    padding: 10px 30px;
+}
+
+.site-abilities h4{
+    font-size: 1rem;
+}
+
+.pokemon-data p{
+    padding: 0 5vw;
+    font-size: 1.2rem;
+}
+
+.pokemon-data p span{
+    font-weight: bold;
+}
