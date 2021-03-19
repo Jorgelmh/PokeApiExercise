@@ -30,6 +30,7 @@
     "@angular/compiler-cli": "~9.0.2",
     "@angular/language-service": "~9.0.2",
     "@types/node": "^12.11.1",
+    "angular-cli-ghpages": "^1.0.0-rc.1",
     "codelyzer": "^3.1.2",
     "ts-node": "~8.3.0",
     "tslint": "^5.6.0",
